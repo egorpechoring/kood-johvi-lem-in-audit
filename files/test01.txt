@@ -1,0 +1,22 @@
+5
+##start
+START 0 0
+left1 0 0
+left2 0 0
+mid1 0 0
+mid2 0 0
+right1 0 0
+right2 0 0
+##end
+END 0 0
+START-left1
+START-mid1
+START-right1
+left1-mid1
+left2-mid1
+mid1-mid2
+left2-END
+mid2-END
+right1-mid2
+mid2-right2
+right2-END

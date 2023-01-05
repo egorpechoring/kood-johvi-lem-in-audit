@@ -1,0 +1,16 @@
+1
+##start
+START 0 0
+left 0 0
+mid1 0 0
+mid2 0 0
+right 0 0
+##end
+END 0 0
+START-mid1
+mid1-mid2
+mid2-END
+START-right
+right-mid2
+mid1-left
+left-END
